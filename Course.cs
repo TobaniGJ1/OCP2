@@ -55,7 +55,7 @@ class Program
         Course hybridCourse = new HybridCourse { CourseId = 3, Title = "Curso de Programación Híbrido" };
 
         // Crear instancia de estudiante
-        Student student = new Student("Juan Pérez");
+        Student student = new Student("Tobani Gonzalez");
 
         // Suscribir estudiante a los cursos
         onlineCourse.Subscribe(student);
